@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Neelesh Kumar N</h1>
 <h3 align="center">Curious student,Exploring the world of technology</h3>
-<img align= "right" alt = "coding"  width = "400" src = "https://dribbble.com/shots/15022493-Android-Developers?utm_source=Clipboard_Shot&utm_campaign=Molly_Hensley&utm_content=Android%20Developers&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Molly_Hensley&utm_content=Android%20Developers&utm_medium=Social_Share">
+
 
 <p align="left"> <a href="https://twitter.com/_neelesh92" target="blank"><img src="https://img.shields.io/twitter/follow/_neelesh92?logo=twitter&style=for-the-badge" alt="_neelesh92" /></a> </p>
 
